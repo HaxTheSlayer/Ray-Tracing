@@ -19,7 +19,7 @@ This project was developed to improve understanding of Physically Based Renderin
 Prioritized the physical aspect of light transport:
 * **Uniform Hemisphere Sampling:**  Leveraging Probability Density Functions (PDF) to sample ray directions.
 * **Unbiased Integration:** Using Monte Carlo methods to solve the Rendering Equation.
-* **Geometric Intersection:** Optimized ray-primitive intersection logic for spheres, trangles, and planes.
+* **Geometric Intersection:** Optimized ray-primitive intersection logic for spheres, triangles, and planes.
 
 ## Gallery and Results
 | Feature | Whitted Ray Tracing | Path Tracing (Naive) | Path Tracing (NEE) |
